@@ -1,6 +1,7 @@
 # Neural Network Binary Classifier
 
 This program build a binary classifier to predict a business' future success using deep neural networks.
+
 ----
 
 ## Technologies
